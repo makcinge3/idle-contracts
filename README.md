@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bugduino/idle-contracts)
+
 ############
 THIS REPO HAS BEEN MOVED HERE https://github.com/Idle-Labs/idle-contracts
 ############
